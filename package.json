@@ -1,0 +1,8 @@
+{
+  "name": "scrolling",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}
